@@ -116,11 +116,6 @@ body {
   margin-bottom: 4px;
 }
 
-
-.link, .project-image, .button, .header-list img {
-  transition: all 0.23s cubic-bezier(0.65,0.05,0.4,1);
-}
-
 .project-image:hover, .header-list img:hover {
   opacity: 60%;
 }
